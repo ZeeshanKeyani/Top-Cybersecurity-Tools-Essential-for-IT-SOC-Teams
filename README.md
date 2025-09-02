@@ -15,6 +15,68 @@ Whether you're a cybersecurity professional, SOC analyst, DevSecOps
 engineer, or IT leader, understanding these tools is critical to
 building a resilient security posture.
 
+# 🔐 Cybersecurity Tools Showcase  
+
+---
+
+## 🌐 Networking Security Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolarWinds-F37021?style=for-the-badge&logo=solarwinds&logoColor=white" />
+</p>
+
+---
+
+## 🛡️ Application Security Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Veracode-3C9CD7?style=for-the-badge&logo=veracode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkmarx-2CBE4E?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+---
+
+## ☁️ Cloud Security Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma%20Cloud-0072C6?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Cloud-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+---
+
+## 🚨 Incident Reporting & Response Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20QRadar-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white" />
+</p>
+
+---
+
+## 🔎 SOC & Security Operations  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Operations-blue?style=for-the-badge&logo=siem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=attack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Response-yellow?style=for-the-badge&logo=incident&logoColor=black" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-green?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-purple?style=for-the-badge&logo=autopsy&logoColor=white" />
+</p>
+
+
+
+
+
 ## 1. Networking Security Tools
 
 Networking is the backbone of modern IT infrastructure. Hackers often
