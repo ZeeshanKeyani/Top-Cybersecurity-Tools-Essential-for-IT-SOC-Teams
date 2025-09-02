@@ -86,7 +86,7 @@ are designed to monitor, protect, and test the integrity of these
 systems.
 
 ### a) Wireshark
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 Wireshark is the gold standard for network protocol analysis. It allows
@@ -114,9 +114,7 @@ vulnerabilities - Scriptable with Nmap Scripting Engine (NSE)
 **Use Case:** Penetration testers rely on Nmap for network
 reconnaissance before attempting deeper exploitation.
 
-### c) Snort
-<p><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=security&logoColor=white" />
-</p>
+### c) Snort <p><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=security&logoColor=white" /></p>
 Snort is an Intrusion Detection and Prevention System (IDS/IPS)
 developed by Cisco.
 
@@ -127,7 +125,7 @@ deployed in IPS mode - Community-driven rule updates
 **Use Case:** Organizations integrate Snort with firewalls to block
 intrusions before they cause damage.
 
-### d) SolarWinds Network Performance Monitor
+### d) SolarWinds Network Performance Monitor 
 
 For enterprises managing large-scale networks, SolarWinds NPM is an
 indispensable tool.
