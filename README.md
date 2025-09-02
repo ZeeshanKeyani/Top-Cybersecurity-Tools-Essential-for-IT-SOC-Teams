@@ -86,7 +86,9 @@ are designed to monitor, protect, and test the integrity of these
 systems.
 
 ### a) Wireshark
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 Wireshark is the gold standard for network protocol analysis. It allows
 security teams to capture and inspect live network traffic at the packet
 level.
@@ -100,7 +102,8 @@ traffic, troubleshoot connectivity issues, and detect malware
 communication.
 
 ### b) Nmap (Network Mapper)
-
+<p><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</p>
 Nmap is a powerful port scanning tool used to discover hosts and
 services running on a network.
 
@@ -112,7 +115,8 @@ vulnerabilities - Scriptable with Nmap Scripting Engine (NSE)
 reconnaissance before attempting deeper exploitation.
 
 ### c) Snort
-
+<p><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=security&logoColor=white" />
+</p>
 Snort is an Intrusion Detection and Prevention System (IDS/IPS)
 developed by Cisco.
 
