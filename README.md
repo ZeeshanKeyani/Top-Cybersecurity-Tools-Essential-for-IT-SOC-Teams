@@ -1,6 +1,6 @@
 # Top Cybersecurity Tools 2025: Network, Cloud & App Security
 <p align="center">
-  <img src="sandbox:/mnt/data/A_2D_digital_infographic_titled_%22CYBERSECURITY_PHA.png" alt="Cybersecurity Phases" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="https://github.com/ZeeshanKeyani/Top-Cybersecurity-Tools-Essential-for-IT-SOC-Teams/blob/main/cybersecurty%20tools.png">
 </p>
 In today's hyperconnected world, cybersecurity isn't a luxury---it's a
 necessity. From small businesses to Fortune 500 enterprises, every
