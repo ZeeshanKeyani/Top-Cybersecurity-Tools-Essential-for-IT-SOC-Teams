@@ -125,7 +125,7 @@ deployed in IPS mode - Community-driven rule updates
 **Use Case:** Organizations integrate Snort with firewalls to block
 intrusions before they cause damage.
 
-### d) SolarWinds Network Performance Monitor 
+### d) SolarWinds Network Performance Monitor <p><img src="https://img.shields.io/badge/SolarWinds-F37021?style=for-the-badge&logo=solarwinds&logoColor=white" /></p
 
 For enterprises managing large-scale networks, SolarWinds NPM is an
 indispensable tool.
